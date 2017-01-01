@@ -5,7 +5,7 @@ favicon: /assets/img/avatar.JPG
 baseurl: 
 url: 
 rss_url: /pages/atom.xml
-google_analytics: UA-63653234-1
+# google_analytics: UA-63653234-1
 
 # Build settings
 markdown: kramdown
@@ -14,8 +14,8 @@ exclude: [vendor]
 
 # Author settings
 author:
-  name: Dong Liang
-  title: Java Developer
+  name: Volkan Sahin
+  title: Software Developer
   address: Auckland, New Zealand
   email: dongg.liang@gmail.com
   link: http://ddbullfrog.com

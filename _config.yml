@@ -1,6 +1,6 @@
 # Site settings
-title: Dong Liang's CV 
-description: ddbullfrog's CV
+title: Volkan Sahin's CV 
+description: Volkan Sahin's CV
 favicon: /assets/img/avatar.JPG
 baseurl: cv.volkansah.in/
 url: cv.volkansah.in/
@@ -14,27 +14,28 @@ exclude: [vendor]
 
 # Author settings
 author:
-  name: Dong Liang
-  title: Java Developer
-  address: Auckland, New Zealand
-  email: dongg.liang@gmail.com
-  link: http://ddbullfrog.com
+  name: Volkan Sahin
+  title: Software Developer
+  address: Ankara, Turkey
+  email: bm.volkansahin@gmail.com
+  link: volkansah.in
   weibo:
-  github: ddbullfrog
-  linkedin: ddbullfrog
-  twitter: ddbullfrog
+  github: volkansahin
+  linkedin: volkansahin
+  twitter: volkansahin
   gavatar: /resumecard/assets/img/avatar.JPG
   stackoverflow:
 #  stackoverflow: 4582127
   workHistory:
     - work1:
-      company: Finzsoft Solutions Ltd
-      location: Auckland, New Zealand
-      title: Java Developer
+      company: AGEM Bilisim
+      location: Ankara, Turkey
+      title: Full Stack Software Developer
       started: 2014
       duration: (2014 - Present)
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
-    - work2:
+            -project1: I am not a descriptionI am not a descriptionI am not a description
+   - work2:
       company: Agfa HealthCare
       location: Shanghai, China
       title: Java Developer

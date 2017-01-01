@@ -1,11 +1,11 @@
 # Site settings
-title: Volkan Sahin's CV 
-description: Volkan Sahin's CV
+title: Dong Liang's CV 
+description: ddbullfrog's CV
 favicon: /assets/img/avatar.JPG
-baseurl: 
-url: cv.volkansah.in
+baseurl: https://ddbullfrog.github.io/resumecard
+url: https://ddbullfrog.github.io/resumecard
 rss_url: /pages/atom.xml
-#google_analytics: UA-63653234-1
+google_analytics: UA-63653234-1
 
 # Build settings
 markdown: kramdown
@@ -14,25 +14,39 @@ exclude: [vendor]
 
 # Author settings
 author:
-  name: Volkan Sahin
-  title: Software Developer
-  address: Ankara, Turkey
-  email: bm.volkansahin@gmail.com
-  link: volkansah.in
+  name: Dong Liang
+  title: Java Developer
+  address: Auckland, New Zealand
+  email: dongg.liang@gmail.com
+  link: http://ddbullfrog.com
   weibo:
-  github: volkansahin
-  linkedin: volkansahin
-  twitter: volkansahin
+  github: ddbullfrog
+  linkedin: ddbullfrog
+  twitter: ddbullfrog
   gavatar: /resumecard/assets/img/avatar.JPG
   stackoverflow:
 #  stackoverflow: 4582127
   workHistory:
     - work1:
-      company: AGEM Bilisim
-      location: Ankara, Turkey
-      title: Full Stack Software Developer
+      company: Finzsoft Solutions Ltd
+      location: Auckland, New Zealand
+      title: Java Developer
       started: 2014
       duration: (2014 - Present)
+      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+    - work2:
+      company: Agfa HealthCare
+      location: Shanghai, China
+      title: Java Developer
+      started: 2012
+      duration: (2012 - 2014)
+      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+    - work3:
+      company: Citigroup Services and Technology (China) Limited
+      location: Shanghai, China
+      title: Java Developer
+      started: 2009
+      duration: (2009 - 2012)
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
   educationHistory:
     - education1:

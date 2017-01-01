@@ -24,7 +24,7 @@ author:
   linkedin: volkansahin
   twitter: volkansahin
   gavatar: /resumecard/assets/img/avatar.JPG
-  stackoverflow: 1287752
+ # stackoverflow: 1287752
   workHistory:
     - work1:
       company: AGEM Bilisim
@@ -60,7 +60,7 @@ author:
       percentage: 100%
     - skill3:
       name: JavaScript
-      percentage: 90%
+      percentage: 100%
     - skill4:
       name: AngularJS
       percentage: 70%

@@ -27,58 +27,40 @@ author:
   stackoverflow: 1287752
   workHistory:
     - work1:
-      company: Finzsoft Solutions Ltd
-      location: Auckland, New Zealand
-      title: Java Developer
+      company: AGEM Bilisim
+      location: Ankara, Turkey
+      title: Full Stack Developer
       started: 2014
       duration: (2014 - Present)
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
-    - work2:
-      company: Agfa HealthCare
-      location: Shanghai, China
-      title: Java Developer
-      started: 2012
-      duration: (2012 - 2014)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
-    - work3:
-      company: Citigroup Services and Technology (China) Limited
-      location: Shanghai, China
-      title: Java Developer
-      started: 2009
-      duration: (2009 - 2012)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
   educationHistory:
     - education1:
-      organization: Northeastern University
-      location: Shenyang, China
+      organization: Hacettepe University
+      location: Ankara, Turkey
       degree: Bachelor
-      major: Software Engineering
-      started: 2005
-      duration: (2005 - 2009)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      major: Computer Engineering
+      started: 2009
+      duration: (2009 - 2014)
   languages:
     - language1:
-      name: Chinese
+      name: Turkish
       proficiency: Native
     - language2:
       name: English
       proficiency: Professional
     - language3:
-      name: Japanese
-      proficiency: Limit
+      name: German
+      proficiency: Basic
   programmingSkills:
     - skill1:
-      name: HTML
+      name: Java
       percentage: 100%
     - skill2:
-      name: Bootstrap
-      percentage: 90%
+      name: Python
+      percentage: 100%
     - skill3:
       name: JavaScript
-      percentage: 70%
+      percentage: 90%
     - skill4:
       name: AngularJS
       percentage: 70%
-    - skill5:
-      name: Java/Java EE
-      percentage: 90%

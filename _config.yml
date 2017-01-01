@@ -27,7 +27,7 @@ author:
  # stackoverflow: 1287752
   workHistory:
     - work1:
-      company: AGEM Bilisim
+      company: Lider Ahenk
       location: Ankara, Turkey
       title: Full Stack Developer
       started: 2014
@@ -50,7 +50,7 @@ author:
       proficiency: Professional
     - language3:
       name: German
-      proficiency: Limit
+      proficiency: Basic
   programmingSkills:
     - skill1:
       name: Java

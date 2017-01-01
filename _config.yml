@@ -16,16 +16,15 @@ exclude: [vendor]
 author:
   name: Volkan Sahin
   title: Software Developer
-  address: Auckland, New Zealand
-  email: dongg.liang@gmail.com
-  link: http://ddbullfrog.com
+  address: Ankara, Turkey
+  email: bm.volkansahin@gmail.com
+  link: volkansah.in
   weibo:
-  github: ddbullfrog
-  linkedin: ddbullfrog
-  twitter: ddbullfrog
+  github: volkansahin
+  linkedin: volkansahin
+  twitter: volkansahin
   gavatar: /resumecard/assets/img/avatar.JPG
-  stackoverflow:
-#  stackoverflow: 4582127
+  stackoverflow:1287752
   workHistory:
     - work1:
       company: Finzsoft Solutions Ltd

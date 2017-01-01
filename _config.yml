@@ -13,7 +13,7 @@ markdown: kramdown
 exclude: [vendor]
 
 # Author settings
-author:
+author:Volkan Sahin
   name: Volkan Sahin
   title: Software Developer
   address: Ankara, Turkey

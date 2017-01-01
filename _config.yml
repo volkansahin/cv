@@ -50,7 +50,7 @@ author:
       proficiency: Professional
     - language3:
       name: German
-      proficiency: Basic
+      proficiency: Limit
   programmingSkills:
     - skill1:
       name: Java

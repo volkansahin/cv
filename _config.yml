@@ -93,19 +93,48 @@ author:
   familiarTechnologies:
     - tech1:
       name: XMPP(Ejabberd) <b>|</b> LDAP(OpenLDAP) <b>|</b> Eclipse RCP <b>|</b> OSGI (Karaf) <b>|</b> Apache Tomcat
+      tag: Technologies
+
     - tech2:
-      name: Maven <b>|</b> Gradle  <b>|</b> Git <b>|</b>SVN  <b>|</b> Jenkins
+      name: Git <b>|</b> SVN
+      tag: Version Controller
+
     - tech3:
-      name: Postgresql<b>|</b> MySQL  <b>|</b> MariaDB <b>|</b> SQLite 
-    - tech4:
-      name: Eclipse<b>|</b> PyCharm <b>|</b>  Android Studio <b>|</b> Visual Studio <b>|</b> NetBeans <b>|</b> CodeBlocks
+      name: Maven <b>|</b> Gradle
+      tag: Build Managers
+
 
     - tech5:
-      name: IBM WebSphere Modeller<b>|</b> Visual Paradigm <b>|</b> Visual Studio <b>|</b> PgAdmin <b>|</b> MySQL Workbench
+      name: Postgresql<b>|</b> MySQL  <b>|</b> MariaDB <b>|</b> SQLite 
+      tag: Databases
 
     - tech6:
-      name: Apache POI <b>|</b> Jasper<b>|</b>  Unity 3D <b>|</b> Mozilla Rhino <b>|</b> ZK 
+      name: Eclipse<b>|</b> PyCharm <b>|</b>  Android Studio <b>|</b> Visual Studio <b>|</b> NetBeans <b>|</b> CodeBlocks
+      tag: IDEs
 
     - tech7:
-      name: VMware <b>|</b> Visual Paradigm <b>|</b>  VirtualBox 
+      name: IBM WebSphere Business Modeller<b>|</b> Visual Paradigm 
+      tag: UML Modellers
+
+    - tech8:
+      name: PgAdmin <b>|</b> MySQL Workbench <b>|</b>  SQL Lite Studio
+      tag: DB Manager
+
+
+    - tech4:
+      name: Jenkins
+      tag: Continuous Integration
+
+    - tech9:
+      name: Apache POI <b>|</b> Jasper<b>|</b> Mozilla Rhino 
+      tag: Libraries
+
+    - tech10:
+      name: ZK
+      tag: Frameworks
+
+
+    - tech11:
+      name: VMware <b>|</b> VirtualBox 
+      tag: Virtualizations
 

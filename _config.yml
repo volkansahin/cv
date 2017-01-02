@@ -91,33 +91,42 @@ author:
       name: C/C++
       percentage: 80%
   familiarTechnologies:
+
+    - tech0:
+      name: Debian Based(Pardus, Ubuntu, Mint), Windows(8, 10), CentOS, Nagios 
+      tag: Operating Systems
+
+    - tech12:
+      name: Bash, Powershell
+      tag: Shell
+
     - tech1:
-      name: XMPP(Ejabberd) <b>|</b> LDAP(OpenLDAP) <b>|</b> Eclipse RCP <b>|</b> OSGI (Karaf) <b>|</b> Apache Tomcat
+      name: XMPP(Ejabberd),LDAP(OpenLDAP),Eclipse RCP,OSGI (Karaf),Apache Tomcat
       tag: Technologies
 
     - tech2:
-      name: Git <b>|</b> SVN
+      name: Git,SVN
       tag: Version Controller
 
     - tech3:
-      name: Maven <b>|</b> Gradle
+      name: Maven,Gradle
       tag: Build Managers
 
 
     - tech5:
-      name: Postgresql<b>|</b> MySQL  <b>|</b> MariaDB <b>|</b> SQLite 
+      name: Postgresql,MySQL,MariaDB,SQLite 
       tag: Databases
 
     - tech6:
-      name: Eclipse<b>|</b> PyCharm <b>|</b>  Android Studio <b>|</b> Visual Studio <b>|</b> NetBeans <b>|</b> CodeBlocks
+      name: Eclipse,PyCharm,Android Studio,Visual Studio,NetBean,CodeBlocks
       tag: IDEs
 
     - tech7:
-      name: IBM WebSphere Business Modeller<b>|</b> Visual Paradigm 
+      name: IBM WebSphere Business Modeller,Visual Paradigm 
       tag: UML Modellers
 
     - tech8:
-      name: PgAdmin <b>|</b> MySQL Workbench <b>|</b>  SQL Lite Studio
+      name: PgAdmin,MySQL Workbench,SQL Lite Studio
       tag: DB Manager
 
 
@@ -126,7 +135,7 @@ author:
       tag: Continuous Integration
 
     - tech9:
-      name: Apache POI <b>|</b> Jasper<b>|</b> Mozilla Rhino 
+      name: Apache POI,Jasper,Mozilla Rhino 
       tag: Libraries
 
     - tech10:
@@ -135,6 +144,6 @@ author:
 
 
     - tech11:
-      name: VMware <b>|</b> VirtualBox 
+      name: VMware,VirtualBox 
       tag: Virtualizations
 

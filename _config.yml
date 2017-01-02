@@ -88,5 +88,7 @@ author:
       name: AngularJS
       percentage: 70%
   familiarTechnologies:
-    - skill1:
+    - tech1:
       name: XMPP
+    - tech2:
+      name: OSGI

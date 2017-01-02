@@ -100,6 +100,11 @@ author:
       name: Bash, Powershell
       tag: Shell
 
+
+    - tech11:
+      name: VMware,VirtualBox,Docker 
+      tag: Virtualizations
+
     - tech1:
       name: XMPP(Ejabberd),LDAP(OpenLDAP),Eclipse RCP,OSGI (Karaf),Apache Tomcat
       tag: Technologies
@@ -129,7 +134,6 @@ author:
       name: PgAdmin,MySQL Workbench,SQL Lite Studio
       tag: DB Manager
 
-
     - tech4:
       name: Jenkins
       tag: Continuous Integration
@@ -138,12 +142,5 @@ author:
       name: Apache POI,Jasper,Mozilla Rhino 
       tag: Libraries
 
-    - tech10:
-      name: ZK
-      tag: Frameworks
 
-
-    - tech11:
-      name: VMware,VirtualBox 
-      tag: Virtualizations
 

@@ -87,3 +87,6 @@ author:
     - skill4:
       name: AngularJS
       percentage: 70%
+  familiarTechnologies:
+    - skill1:
+      name: XMPP

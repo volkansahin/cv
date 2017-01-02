@@ -94,4 +94,12 @@ author:
     - tech1:
       name: XMPP(Ejabberd) <b>|</b> LDAP(OpenLDAP) <b>|</b> Eclipse RCP <b>|</b> OSGI (Karaf) <b>|</b> Apache Tomcat
     - tech2:
-      name: XMPP(Ejabberd)</br><b>|</b> </br>LDAP(OpenLDAP)</br> <b>|</b> </br>Eclipse RCP</br> <b>|</b> </br>OSGI (Karaf)
+      name: Maven <b>|</b> Gradle  <b>|</b> Git <b>|</b>SVN  <b>|</b> Jenkins
+    - tech3:
+      name: Postgresql<b>|</b> MySQL  <b>|</b> MariaDB <b>|</b> SQLite 
+    - tech4:
+      name: Eclipse<b>|</b> PyCharm <b>|</b>  Android Studio <b>|</b> Visual Studio <b>|</b> NetBeans <b>|</b> CodeBlocks
+
+    - tech5:
+      name: IBM WebSphere Business Modeller<b>|</b> Visual Paradigm <b>|</b>  Android Studio <b>|</b> Visual Studio <b>|</b> PgAdmin <b>|</b> MySQL Workbench
+

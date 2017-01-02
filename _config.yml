@@ -89,6 +89,6 @@ author:
       percentage: 70%
   familiarTechnologies:
     - tech1:
-      name: XMPP
+      name: XMPP(Ejabberd) <b>|</b> LDAP(OpenLDAP) <b>|</b> Eclipse RCP <b>|</b> OSGI (Karaf)
     - tech2:
-      name: OSGI
+      name: XMPP(Ejabberd) <b>|</b> LDAP(OpenLDAP) <b>|</b> Eclipse RCP <b>|</b> OSGI (Karaf)

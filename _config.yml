@@ -41,14 +41,14 @@ author:
       duration: (2015 - 2016)
       description: LiderAhenk is an open-source software application developed for TÜBİTAK ULAKBİM (The Scientific and Technological Research Council of Turkey - Turkish Academic Network and Information Center), which provides managing, monitoring and controlling the large amounts of systems and their users on the institutional network through a single point. http://liderahenk.org/
     - work3:
-      company: Arya
+      company: ARYA
       location: Ankara, Turkey
       title: Full Stack Developer
       started: 2014
       duration: (2014-2015)
-      description: Development of new applications for next generation platforms and part of the migration methodology and supporting solution components of existing applications. aryaportal.org
+      description: Development of new applications for next generation platforms and part of the migration methodology and supporting solution components of existing applications. <a href="aryaportal.org">ARYA</a>
     - work4:
-      company: RCOP MIS Application
+      company: RCOP MIS
       location: Ankara, Turkey
       title: Full Stack Developer
       started: 2014

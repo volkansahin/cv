@@ -23,7 +23,7 @@ author:
   github: volkansahin
   linkedin: volkansahin
   twitter: volkansahin
-  gavatar: /resumecard/assets/img/avatar.JPG
+  gavatar: /assets/img/volkan.png
  # stackoverflow: 1287752
   workHistory:
     - work1:
@@ -32,6 +32,7 @@ author:
       title: Backend Developer
       started: 2016
       duration: (2016 - Present)
+      description: The current Lider Ahenk is a solution that manages Linux clients only. Open source, general public license (GPL) and innovative product developed using internationally known, competitive, ar-ge based, fully open standards, open source code solutions, which can manage Windows clients with the LAWA (Lider Ahenk Windows Agent) project.
     - work2:
       company: Lider Ahenk
       location: Ankara, Turkey

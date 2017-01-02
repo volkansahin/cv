@@ -33,13 +33,13 @@ author:
       started: 2015
       duration: (2015 - Present)
       description: LiderAhenk is an open-source software application developed for TÜBİTAK ULAKBİM (The Scientific and Technological Research Council of Turkey - Turkish Academic Network and Information Center), which provides managing, monitoring and controlling the large amounts of systems and their users on the institutional network through a single point.
-      - work2:
-            company: Lider Ahenk
-            location: Ankara, Turkey
-            title: Backend Developer
-            started: 2014
-            duration: (2014 - 2015)
-            description: asd
+    - work2:
+      company: Lider Ahenk
+      location: Ankara, Turkey
+      title: Backend Developer
+      started: 2014
+      duration: (2014 - 2015)
+      description: asd
   educationHistory:
     - education1:
       organization: Hacettepe University

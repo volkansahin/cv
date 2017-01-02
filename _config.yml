@@ -93,7 +93,7 @@ author:
   familiarTechnologies:
 
     - tech0:
-      name: Debian Based(Pardus, Ubuntu, Mint), Windows(8, 10), CentOS, Nagios 
+      name: Debian Based(Pardus, Ubuntu, Mint), CentOS, Nagios, Windows(8, 10) 
       tag: Operating Systems
 
     - tech12:

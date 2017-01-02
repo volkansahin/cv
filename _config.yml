@@ -40,6 +40,13 @@ author:
       started: 2014
       duration: (2014-2015)
       description: Development of new applications for next generation platforms and part of the migration methodology and supporting solution components of existing applications. aryaportal.org
+    - work3:
+      company: RCOP MIS Application
+      location: Ankara, Turkey
+      title: Full Stack Developer
+      started: 2014
+      duration: (2014)
+      description:RCOP
   educationHistory:
     - education1:
       organization: Hacettepe University

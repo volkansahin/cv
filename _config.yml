@@ -37,8 +37,9 @@ author:
             company: Lider Ahenk
             location: Ankara, Turkey
             title: Backend Developer
-            started: 2015
-            duration: (2015 - Present)
+            started: 2014
+            duration: (2014 - 2015)
+            description: asd
   educationHistory:
     - education1:
       organization: Hacettepe University

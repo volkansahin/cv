@@ -27,26 +27,32 @@ author:
  # stackoverflow: 1287752
   workHistory:
     - work1:
+      company: LAWA
+      location: Ankara, Turkey
+      title: Backend Developer
+      started: 2016
+      duration: (2016 - Present)
+    - work2:
       company: Lider Ahenk
       location: Ankara, Turkey
       title: Backend Developer
       started: 2015
-      duration: (2015 - Present)
+      duration: (2015 - 2016)
       description: LiderAhenk is an open-source software application developed for TÜBİTAK ULAKBİM (The Scientific and Technological Research Council of Turkey - Turkish Academic Network and Information Center), which provides managing, monitoring and controlling the large amounts of systems and their users on the institutional network through a single point. http://liderahenk.org/
-    - work2:
+    - work3:
       company: Arya
       location: Ankara, Turkey
       title: Full Stack Developer
       started: 2014
       duration: (2014-2015)
       description: Development of new applications for next generation platforms and part of the migration methodology and supporting solution components of existing applications. aryaportal.org
-    - work3:
+    - work4:
       company: RCOP MIS Application
       location: Ankara, Turkey
       title: Full Stack Developer
       started: 2014
       duration: (2014)
-      description:RCOP
+      description: RCOP
   educationHistory:
     - education1:
       organization: Hacettepe University

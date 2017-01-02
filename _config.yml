@@ -85,10 +85,13 @@ author:
       name: JavaScript
       percentage: 100%
     - skill4:
-      name: AngularJS
-      percentage: 70%
+      name: C#
+      percentage: 90%
+    - skill5:
+      name: C/C++
+      percentage: 80%
   familiarTechnologies:
     - tech1:
-      name: XMPP(Ejabberd)</br><b>|</b> </br>LDAP(OpenLDAP)</br> <b>|</b> </br>Eclipse RCP</br> <b>|</b> </br>OSGI (Karaf)
+      name: XMPP(Ejabberd) <b>|</b> LDAP(OpenLDAP) <b>|</b> Eclipse RCP <b>|</b> OSGI (Karaf) <b>|</b> Apache Tomcat
     - tech2:
       name: XMPP(Ejabberd)</br><b>|</b> </br>LDAP(OpenLDAP)</br> <b>|</b> </br>Eclipse RCP</br> <b>|</b> </br>OSGI (Karaf)

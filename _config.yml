@@ -92,53 +92,56 @@ author:
       percentage: 80%
   familiarTechnologies:
 
-    - tech0:
+    - tech1:
       name: Debian Based(Pardus, Ubuntu, Mint), CentOS, Nagios, Windows
       tag: Operating Systems
 
-    - tech12:
+    - tech2:
       name: Bash, Powershell
       tag: Shell
 
 
-    - tech11:
+    - tech3:
       name: VMware,VirtualBox,Docker 
       tag: Virtualizations
 
-    - tech1:
+    - tech4:
       name: XMPP(Ejabberd),LDAP(OpenLDAP),Eclipse RCP,OSGI (Karaf),Apache Tomcat
       tag: Technologies
+      
+    - tech5:
+      name: Java EE,Struts,REST
+      tag: Web
 
-    - tech2:
+    - tech6:
       name: Git,SVN
       tag: Version Controller
 
-    - tech3:
+    - tech7:
       name: Maven,Gradle
       tag: Build Managers
 
-
-    - tech5:
+    - tech8:
       name: Postgresql,MySQL,MariaDB,SQLite 
       tag: Databases
 
-    - tech6:
+    - tech9:
       name: Eclipse,PyCharm,Android Studio,Visual Studio,NetBean,CodeBlocks
       tag: IDEs
 
-    - tech7:
+    - tech10:
       name: IBM WebSphere Business Modeller,Visual Paradigm 
       tag: UML Modellers
 
-    - tech8:
+    - tech11:
       name: PgAdmin,MySQL Workbench,SQL Lite Studio
       tag: DB Manager
 
-    - tech4:
-      name: Travis
-      tag: Continuous Integration
+    - tech12:
+      name: Travis,JMeter
+      tag: CI,Test
 
-    - tech9:
+    - tech13:
       name: Apache POI,Jasper,Mozilla Rhino 
       tag: Libraries
 

@@ -135,7 +135,7 @@ author:
       tag: DB Manager
 
     - tech4:
-      name: Jenkins
+      name: Travis
       tag: Continuous Integration
 
     - tech9:
